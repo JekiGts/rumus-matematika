@@ -1,0 +1,11 @@
+D:\Project\rumus-matematika\bin\Debug\netcoreapp2.2\rumus-matematika.deps.json
+D:\Project\rumus-matematika\bin\Debug\netcoreapp2.2\rumus-matematika.runtimeconfig.json
+D:\Project\rumus-matematika\bin\Debug\netcoreapp2.2\rumus-matematika.runtimeconfig.dev.json
+D:\Project\rumus-matematika\bin\Debug\netcoreapp2.2\rumus-matematika.dll
+D:\Project\rumus-matematika\bin\Debug\netcoreapp2.2\rumus-matematika.pdb
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.csprojAssemblyReference.cache
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.csproj.CoreCompileInputs.cache
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.AssemblyInfoInputs.cache
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.AssemblyInfo.cs
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.dll
+D:\Project\rumus-matematika\obj\Debug\netcoreapp2.2\rumus-matematika.pdb
